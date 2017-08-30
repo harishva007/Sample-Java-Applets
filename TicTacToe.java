@@ -292,6 +292,6 @@ public class TicTacToe extends Applet implements MouseListener {
     }
 
     public String getAppletInfo() {
-	return "TicTacToe by Harish and Arthur";
+	return "TicTacToe!";
     }
 }
